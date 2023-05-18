@@ -1,0 +1,37 @@
+===================================================================
+RCS file: stubbers/python/RCS/genstub.c,v
+retrieving revision 1.1
+diff -c2 -r1.1 stubbers/python/genstub.c
+*** stubbers/python/genstub.c	1998/05/18 19:55:07	1.1
+--- stubbers/python/genstub.c	1998/09/16 21:30:29
+***************
+*** 1457,1460 ****
+--- 1457,1476 ----
+  	printArgList(m->arguments, 1);
+  	printf("):\n");
++ 	printf("\twhile 1:\n");
++ 	printf("\t    try:\n");
++ 	printf("\t        rtn = %s.__%s(", nameVarSelf, getProcedureName(m));
++ 	printArgList(m->arguments, 0);
++ 	printf(")\n");
++ 	printf("\t    except IPE, v:\n");
++ 	printf("\t        if v <> 'lost connection':\n");
++ 	printf("\t            # only works with Python 1.5.1\n");
++ 	printf("\t            raise\n");
++ 	printf("\t    else:\n");
++ 	printf("\t        return rtn\n");
++ 
++ 	newline();
++ 	printf("    def __%s(%s", getProcedureName(m), nameVarSelf);
++ 	printArgList(m->arguments, 1);
++ 	printf("):\n");
+  	if (m->functional && (list_size(m->arguments) == 0) && (methodResultCount(m) > 0))
+  	  stMethodCheckCache(m);
+***************
+*** 1626,1629 ****
+--- 1642,1646 ----
+  	printBanner("Stubs", ifc);
+  	printImportTable();
++ 	printf("IPE = _imported_modules['ilu'].IluProtocolError\n");
+  	printTypeTable();
+  	list_enumerate(ifc->imports,    (EnumProc) stImported,  NULL);

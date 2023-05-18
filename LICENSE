@@ -1,0 +1,104 @@
+1.  THIS CNRI LICENSE AGREEMENT (the "Agreement"), by and between the
+Corporation for National Research Initiatives, having an office at
+1895 Preston White Drive, Reston, VA 20191 ("CNRI") and the Individual
+or Organization ("Licensee") requesting release of the Knowbot System
+Software (ver. 1.0 alpha 2) in source code form and its associated
+documentation as provided herein ("Software"), is effective as of the
+date of release to Licensee of the Software.
+
+2.  CNRI owns the Software and copyrights and other rights therein.
+CNRI grants Licensee a non- exclusive, non-transferable, royalty-free,
+worldwide license to reproduce, analyze, test, modify, perform and/or
+display publicly, and otherwise use the Software solely for
+educational, research and experimental purposes, provided, however,
+that this Agreement and the following CNRI notices of copyright and
+trademark are retained in the Software: "(C) Copyright 1998
+Corporation for National Research Initiatives. All Rights Reserved."
+and "Knowbot(R) System Software."
+
+3.  This Agreement does not authorize Licensee to distribute copies of
+the Software to the public, or provide any commercial service to the
+public using the Software. Third parties wishing to obtain the
+Software must obtain it directly from CNRI.  It is understood,
+however, that Licensee may enter into experiments with other licensees
+of the Software to implement and otherwise use the Software over the
+Internet solely for the purposes set forth in this Agreement.
+
+4.  CNRI encourages Licensee to share with CNRI any bug fixes,
+suggestions, patches, minor corrections and the like ("Bug Fixes")
+made by Licensee to the Software. Licensee hereby agrees not to send
+CNRI any confidential or proprietary information or material relating
+to the Software either in the form of Bug Fixes or otherwise, absent a
+separate written agreement between CNRI and Licensee for this
+purpose. CNRI may, at its sole discretion, decide whether or not to
+incorporate in the Software any Bug Fixes received from Licensee.
+
+5.  In the installation, running or other permitted use of the
+Software provided to Licensee under this Agreement, CNRI has no
+objection if Licensee accesses, reproduces, makes available to the
+public or otherwise uses computer software, or other information or
+material that is owned in whole or in part by third parties to this
+Agreement, provided, however, that any such use has been licensed or
+otherwise authorized for use by Licensee.  Licensee hereby
+acknowledges that CNRI shall not be deemed a party to or otherwise
+subject to any obligations of Licensee to third parties to this
+Agreement, and that Licensee is solely responsible for obtaining any
+necessary authorizations for carrying out its educational, research
+and experimental efforts under this Agreement.
+
+6.  Licensee may not use CNRI's trademarks or trade name, including
+Knowbot or CNRI, in any trademark sense to endorse or promote any
+product or service of Licensee or any third party.  Licensee may use
+the mark Knowbot in connection with Licensee's provision of any
+educational, research or experimental goods or services that are based
+on the Software or any derivative thereof produced by Licensee, but
+only in form, "Knowbot(R)-based Nifty Service," or equivalent,
+together with a statement that "Knowbot" is a registered trademark of
+CNRI."
+
+7.  CNRI is making the Software available to Licensee on an "AS IS"
+basis. CNRI MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR
+IMPLIED. BY WAY OF EXAMPLE, BUT NOT LIMITATION, CNRI MAKES NO AND
+DISCLAIMS ANY REPRESENTATION OR WARRANTY OF MERCHANTABILITY OR FITNESS
+FOR ANY PARTICULAR PURPOSE, OR THAT THE SOFTWARE WILL NOT INFRINGE ANY
+THIRD PARTY RIGHTS, INCLUDING PATENT RIGHTS, OR THAT THE SOFTWARE WILL
+BE COMPATIBLE WITH FUTURE VERSIONS OF THE KNOWBOT SYSTEM SOFTWARE.
+
+8.  IN NO EVENT SHALL CNRI BE LIABLE TO LICENSEE OR OTHER USERS OF THE
+SOFTWARE FOR ANY INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES OR LOSS
+AS A RESULT OF INSTALLING OR OTHERWISE USING THE SOFTWARE, OR ANY
+DERIVATIVE THEREOF, EVEN IF ADVISED OF THE POSSIBILITY THEREOF. SOME
+JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY SO
+THE ABOVE DISCLAIMER MAY NOT APPLY TO LICENSEE.
+
+9.  This Agreement may be terminated by CNRI: (i) immediately upon
+notice from CNRI of any material breach by Licensee, if the nature of
+the breach is such that it cannot promptly be remedied; or (ii) sixty
+(60) days following notice from CNRI to Licensee of a material
+remediable breach, if Licensee has not remedied such breach within
+that sixty-day period.
+
+10. Licensee hereby agrees that any controversy or claim arising out
+of or relating to this Agreement, its execution or breach, and any
+damages allegedly suffered therefrom, shall first be submitted to
+friendly negotiation between CNRI and Licensee.  Disputes which cannot
+be resolved through negotiation shall be settled in accordance with
+the Commercial Arbitration Rules of the American Arbitration
+Association by one arbitrator appointed in accordance with said Rules.
+The place of arbitration shall be Washington, D.C., and any award,
+order or judgment pursuant to such arbitration may be entered and
+enforced in any court of competent jurisdiction.  The English language
+shall be used throughout the proceedings.
+
+11.  This Agreement shall be governed by and interpreted in all
+respects by the law of the State of Virginia. In the event any part of
+this Agreement is declared invalid or otherwise unenforceable by a
+court of competent jurisdiction, the remaining provisions shall remain
+in effect.  Nothing in this Agreement shall be deemed to create any
+relationship of agency, partnership, or joint venture between CNRI and
+Licensee.  Licensee is solely responsible for the payment of any taxes
+resulting from Licensee's use of the Software. It is the
+responsibility of Licensee or any other individual or organization
+contemplating transactions subject to U. S. export control laws and
+regulations to comply with all applicable export control laws and
+regulations.

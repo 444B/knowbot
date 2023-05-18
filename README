@@ -1,0 +1,94 @@
+Knowbot System Software
+=======================
+
+Version 1.0 alpha 2 -- September 18, 1998
+
+Introduction
+------------
+
+The Knowbot (R) software released here implements a research
+infrastructure for mobile agents ("Knowbot programs") intended for use
+in widely distributed systems such as the Internet.  The current
+version is an experimental prototype; we plan to release new, improved
+versions on a regular basis.
+
+CNRI invites researchers and other interested parties to test drive
+the Knowbot software.  We would like your feedback on the software,
+and also welcome proposals for joint projects using the software.  We
+plan to run the Knowbot software on one or more of our public hosts
+and hope that others will do the same, thereby creating a widely
+distributed network of connected public Knowbot "service stations"
+(our words for servers running the Knowbot software).
+
+The Knowbot software is written in Python, an interpreted
+object-oriented programming language.  The software executes Knowbot
+programs also written in Python.  However, the design of the Knowbot
+architecture allows multiple programming languages; support for
+Knowbot programs written in Java (in addition to Python) is planned
+for a future release.  Knowbot programs written Python and Java should
+then be able to interoperate.
+
+The current version of the Knowbot software runs only on Unix and
+requires Xerox PARC's ILU to run; in addition, Tcl/Tk is required for
+certain components.  (For more details, see the instructions below.)
+
+License
+-------
+
+This software is made available under certain terms and conditions for
+research and educational use.  Read the file LICENSE for the software
+license.  Use of the software implies your agreement with the license.
+
+"Knowbot" is a registered trademark of CNRI.
+
+Instructions
+------------
+
+For documentation, including build and installation instructions,
+point a web browser to the file docs/manuals/index.html in this tree.
+
+Website
+-------
+
+The website for Knowbot software has timely information such as known
+bugs, new versions, and so on.  The URL is:
+
+    http://www.cnri.reston.va.us/home/koe/index.html
+
+Mailing lists
+-------------
+
+We maintain two mailing lists specifically for users of the Knowbot
+software.  These are managed by MailMan, a web-based mailing list
+manager written in Python.
+
+knowbot-announce, for important announcements regarding the Knowbot
+software:
+
+    http://www.cnri.reston.va.us/mailman/listinfo/knowbot-announce
+
+knowbot-list, for open discussion of the Knowbot software:
+
+    http://www.cnri.reston.va.us/mailman/listinfo/knowbot-list
+
+Feedback email
+--------------
+
+Direct feedback email to the developers of the Knowbot software,
+including bug reports, can be sent to:
+
+    knowbot-feedback@cnri.reston.va.us
+
+Other mailing lists
+-------------------
+
+These are not maintained by CNRI, but may be relevant to users of the
+Knowbot software.
+
+Mobility mailing list, discussions on mobile agents and mobile code:
+
+    http://mobility.lboro.ac.uk/
+
+Software agents mailing list, discussions on intelligent agents:
+
+    http://www.csee.umbc.edu/agentslist/
